@@ -22,4 +22,5 @@ end
 
 
 do 
-  .map{"Theo" = 
+  .map{"Theo" = (:color, :gender, :lives)
+end
