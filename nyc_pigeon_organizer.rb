@@ -32,6 +32,9 @@ do
   
 end
 
+  do
+    .map {{:name} = [:color, :gender, :lives]}
+  end 
   
   
   
