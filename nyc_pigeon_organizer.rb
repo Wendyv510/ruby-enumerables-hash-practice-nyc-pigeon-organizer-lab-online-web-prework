@@ -22,5 +22,16 @@ end
 
 
 do 
-  .map{"Theo" = (:color, :gender, :lives)
+  .map{"Theo" = [:color, :gender, :lives]}
+  {"Peter Jr." = [:color, :gender, :lives]}
+  {"Lucky" = [:color, :gender, :lives]}
+  {"Ms. K" = [:color, :gender, :lives]}
+  {"Queenie" = [:color, :gender, :lives]}
+  {"Andrew" = [:color, :gender, :lives]}
+  {"Alex" = [:color, :gender, :lives]}
+  
 end
+
+  
+  
+  
